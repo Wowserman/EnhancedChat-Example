@@ -1,0 +1,5 @@
+name: TestPlugin
+author: Wowserman
+main: com.wowserman.TestPlugin
+version: 1.0
+soft-depend: [EnhancedChat]
